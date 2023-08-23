@@ -20,7 +20,6 @@ JavaScript - Haskell - Python - C
 
 Contáctame!  
 mail: pablomatiasandrada@gmail.com  
-cel: (+54) 9 3572 529573  
 github: Pablo-Andrada  
 
 
