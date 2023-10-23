@@ -10,7 +10,7 @@ Actualmente me dedico a desarrollar proyectos interesantes que potencien mi cono
 ¿Qué busco?  
 Crecer en experiencia y profesionalmente, a la vez que impactar con proyectos útiles e innovadores que estén a la vanguardia del mundo tech..  
 
-¿Qué tecnologías uso?    
+:technologist: ¿Qué tecnologías uso?    
 En el front: REACT - REDUX - HTML - CSS - BOOTSTRAP  
 En el back: NODE JS - EXPRESS   
 En base de datos: POSTGRESQL - SEQUELIZE  
