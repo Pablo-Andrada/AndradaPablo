@@ -22,6 +22,6 @@ JavaScript - Haskell - Python - C
 Contáctame!  
 mail: pablomatiasandrada@gmail.com  
 github: Pablo-Andrada  
-
+linkedIn: https://www.linkedin.com/in/pablo-matias-andrada-5ab113211/
 
 Proyectos
